@@ -33,7 +33,7 @@ export interface AppConfigArg<
   /**
    * An adaptor for storing sessions in your database of choice.
    *
-   * Shopify provides multiple session storage adaptors and you can create your own. {@link https://github.com/Shopify/shopify-app-js/blob/main/README.md#session-storage-options}
+   * Shopify provides multiple session storage adaptors and you can create your own. {@link https://github.com/LionelPerrault/Shopify-Package/shopify-app-js/blob/main/README.md#session-storage-options}
    *
    * @example
    * Using Prisma
@@ -340,7 +340,7 @@ export interface AdminApiContext<
    * Methods for interacting with the Shopify Admin GraphQL API
    *
    * {@link https://shopify.dev/docs/api/admin-graphql}
-   * {@link https://github.com/Shopify/shopify-api-js/blob/main/docs/reference/clients/Graphql.md}
+   * {@link https://github.com/LionelPerrault/Shopify-Package/shopify-api-js/blob/main/docs/reference/clients/Graphql.md}
    *
    * @example
    * Creating a new product

@@ -19,7 +19,7 @@ To increase logging, change these settings when calling shopifyApp:
     }
   }
 
-Learn more: https://github.com/Shopify/shopify-api-js/blob/main/docs/reference/shopifyApi.md#logger
+Learn more: https://github.com/LionelPerrault/Shopify-Package/shopify-api-js/blob/main/docs/reference/shopifyApi.md#logger
 
 -->
 

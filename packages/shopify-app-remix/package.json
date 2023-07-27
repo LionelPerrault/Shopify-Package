@@ -4,12 +4,12 @@
   "description": "Shopify Remix - to simplify the building of Shopify Apps with Remix",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/shopify-app-js.git"
+    "url": "git+https://github.com/LionelPerrault/Shopify-Package/shopify-app-js.git"
   },
   "bugs": {
-    "url": "https://github.com/Shopify/shopify-app-js/issues"
+    "url": "https://github.com/LionelPerrault/Shopify-Package/shopify-app-js/issues"
   },
-  "homepage": "https://github.com/Shopify/shopify-app-js/tree/main/packages/shopify-app-remix",
+  "homepage": "https://github.com/LionelPerrault/Shopify-Package/shopify-app-js/tree/main/packages/shopify-app-remix",
   "author": "Shopify Inc.",
   "license": "MIT",
   "main": "./build/cjs/index.js",

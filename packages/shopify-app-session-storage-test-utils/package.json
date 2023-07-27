@@ -4,12 +4,12 @@
   "description": "Utilities for testing Shopify App Session Storage",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/shopify-app-js.git"
+    "url": "git+https://github.com/LionelPerrault/Shopify-Package/shopify-app-js.git"
   },
   "bugs": {
-    "url": "https://github.com/Shopify/shopify-app-js/issues"
+    "url": "https://github.com/LionelPerrault/Shopify-Package/shopify-app-js/issues"
   },
-  "homepage": "https://github.com/Shopify/shopify-app-js/tree/main/packages/shopify-app-session-storage-test-utils",
+  "homepage": "https://github.com/LionelPerrault/Shopify-Package/shopify-app-js/tree/main/packages/shopify-app-session-storage-test-utils",
   "author": "Shopify Inc.",
   "license": "MIT",
   "main": "./dist/index.js",

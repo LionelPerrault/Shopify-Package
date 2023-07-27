@@ -8,7 +8,7 @@ This function creates an object that contains everything an Express app needs to
 
 `ApiConfigParams` | :exclamation: required when not using the Shopify CLI
 
-All values allowed by the `@shopify/shopify-api` package [when calling `shopifyApi`](https://github.com/Shopify/shopify-api-js/blob/main/docs/reference/shopifyApi.md).
+All values allowed by the `@shopify/shopify-api` package [when calling `shopifyApi`](https://github.com/LionelPerrault/Shopify-Package/shopify-api-js/blob/main/docs/reference/shopifyApi.md).
 
 ### auth
 
@@ -52,7 +52,7 @@ Learn more about [access modes in Shopify APIs](https://shopify.dev/docs/apps/au
 `string` | Defaults to `"/exitiframe"`
 
 The path your app's frontend uses to trigger an App Bridge redirect to leave the Shopify Admin before starting OAuth.
-Since that page is in the app frontend, we don't include it in this package, but you can find [an example in our template](https://github.com/Shopify/shopify-frontend-template-react/blob/main/pages/ExitIframe.jsx).
+Since that page is in the app frontend, we don't include it in this package, but you can find [an example in our template](https://github.com/LionelPerrault/Shopify-Package/shopify-frontend-template-react/blob/main/pages/ExitIframe.jsx).
 
 ## Return
 
@@ -66,7 +66,7 @@ The configuration used to set up this object.
 
 ### api
 
-The object created by the `@shopify/shopify-api` package. See [the API package documentation](https://github.com/Shopify/shopify-api-js#readme) for more details.
+The object created by the `@shopify/shopify-api` package. See [the API package documentation](https://github.com/LionelPerrault/Shopify-Package/shopify-api-js#readme) for more details.
 
 ### [auth](./auth.md)
 

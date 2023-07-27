@@ -397,11 +397,11 @@ This can be useful if your app exposes checkout or theme extensions and those ex
 
 When calling `shopifyApp`, you must pass in a `sesionStorage` to store sessions.
 You can change this by passing a different Session Adaptor to `shopifyApp`.
-To make this easy Shopify offers [some production ready session adaptors](https://github.com/Shopify/shopify-app-js/tree/main/packages).
+To make this easy Shopify offers [some production ready session adaptors](https://github.com/LionelPerrault/Shopify-Package/shopify-app-js/tree/main/packages).
 
 In this example we'll swap the default session adaptor for [Prisma](https://www.prisma.io/).
 
-Let's pass the [Prisma app session storage](https://github.com/Shopify/shopify-app-js/blob/main/packages/shopify-app-session-storage-prisma/README.md) adaptor to `shopifyApp`:
+Let's pass the [Prisma app session storage](https://github.com/LionelPerrault/Shopify-Package/shopify-app-js/blob/main/packages/shopify-app-session-storage-prisma/README.md) adaptor to `shopifyApp`:
 
 ```ts
 // app/shopify.server.js
@@ -418,7 +418,7 @@ const shopify = shopifyApp({
 });
 ```
 
-Note that this requires a `schema.prisma` file as defined in the README for [Prisma app session storage](https://github.com/Shopify/shopify-app-js/tree/main/packages/shopify-app-session-storage-prisma).
+Note that this requires a `schema.prisma` file as defined in the README for [Prisma app session storage](https://github.com/LionelPerrault/Shopify-Package/shopify-app-js/tree/main/packages/shopify-app-session-storage-prisma).
 Remember to [set up your migrations](https://www.prisma.io/docs/concepts/components/prisma-migrate/get-started) after creating the schema file!
 
 ## Gotchas / Troubleshooting

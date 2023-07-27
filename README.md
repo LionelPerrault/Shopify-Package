@@ -1,7 +1,7 @@
 # `@shopify/shopify-app-js`
 
 This repo is a collection of packages that make it easy for apps to integrate with Shopify.
-They all build on top of the [@shopify/shopify-api](https://github.com/Shopify/shopify-api-js) package to cover specific use cases.
+They all build on top of the [@shopify/shopify-api](https://github.com/LionelPerrault/Shopify-Package/shopify-api-js) package to cover specific use cases.
 
 This mono-repo supports the following packages:
 

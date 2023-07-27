@@ -7,11 +7,11 @@ If you have an Express app that has been migrated to use version 6 of the `@shop
 > **Note** If you wish to practice this migration prior to applying it to your own app, create an app with one of the following commands, based on your package manager preference:
 >
 > ```shell
-> yarn create @shopify/app --template https://github.com/Shopify/shopify-app-template-node#cli_three_api_six
+> yarn create @shopify/app --template https://github.com/LionelPerrault/Shopify-Package/shopify-app-template-node#cli_three_api_six
 > # or
-> npm init @shopify/app@latest -- --template https://github.com/Shopify/shopify-app-template-node#cli_three_api_six
+> npm init @shopify/app@latest -- --template https://github.com/LionelPerrault/Shopify-Package/shopify-app-template-node#cli_three_api_six
 > # or
-> pnpm create @shopify/app@latest --template https://github.com/Shopify/shopify-app-template-node#cli_three_api_six
+> pnpm create @shopify/app@latest --template https://github.com/LionelPerrault/Shopify-Package/shopify-app-template-node#cli_three_api_six
 > ```
 
 ## Steps
