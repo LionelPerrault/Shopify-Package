@@ -2800,10 +2800,10 @@
   resolved "https://registry.yarnpkg.com/@prisma/engines-version/-/engines-version-4.13.0-50.1e7af066ee9cb95cf3a403c78d9aab3e6b04f37a.tgz#ae338908d11685dee50e7683502d75442b955bf9"
   integrity sha512-fsQlbkhPJf08JOzKoyoD9atdUijuGBekwoOPZC3YOygXEml1MTtgXVpnUNchQlRSY82OQ6pSGQ9PxUe4arcSLQ==
 
-"@prisma/engines@4.13.0":
-  version "4.13.0"
-  resolved "https://registry.yarnpkg.com/@prisma/engines/-/engines-4.13.0.tgz#582a6b90b6efeb0f465984f1fe0e72a4afaaa5ae"
-  integrity sha512-HrniowHRZXHuGT9XRgoXEaP2gJLXM5RMoItaY2PkjvuZ+iHc0Zjbm/302MB8YsPdWozAPHHn+jpFEcEn71OgPw==
+"@prisma/engines@4.16.2":
+  version "4.16.2"
+  resolved "https://registry.yarnpkg.com/@prisma/engines/-/engines-4.16.2.tgz#5ec8dd672c2173d597e469194916ad4826ce2e5f"
+  integrity sha512-vx1nxVvN4QeT/cepQce68deh/Turxy5Mr+4L4zClFuK1GlxN3+ivxfuv+ej/gvidWn1cE1uAhW7ALLNlYbRUAw==
 
 "@redis/bloom@1.2.0":
   version "1.2.0"
@@ -8500,12 +8500,12 @@ pretty-format@^29.0.0, pretty-format@^29.5.0:
     ansi-styles "^5.0.0"
     react-is "^18.0.0"
 
-prisma@^4.13.0:
-  version "4.13.0"
-  resolved "https://registry.yarnpkg.com/prisma/-/prisma-4.13.0.tgz#0b83f40acf50cd47d7463a135c4e9b275713e602"
-  integrity sha512-L9mqjnSmvWIRCYJ9mQkwCtj4+JDYYTdhoyo8hlsHNDXaZLh/b4hR0IoKIBbTKxZuyHQzLopb/+0Rvb69uGV7uA==
+prisma@^4.16.2:
+  version "4.16.2"
+  resolved "https://registry.yarnpkg.com/prisma/-/prisma-4.16.2.tgz#469e0a0991c6ae5bcde289401726bb012253339e"
+  integrity sha512-SYCsBvDf0/7XSJyf2cHTLjLeTLVXYfqp7pG5eEVafFLeT0u/hLFz/9W196nDRGUOo1JfPatAEb+uEnTQImQC1g==
   dependencies:
-    "@prisma/engines" "4.13.0"
+    "@prisma/engines" "4.16.2"
 
 promise-inflight@^1.0.1:
   version "1.0.1"
